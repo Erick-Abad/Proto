@@ -1,0 +1,98 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+  }
+  
+  input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 8px;
+    border: none;
+    outline: none;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  .alert {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 20px;
+    margin-bottom: 15px;
+    border: 1px solid #f5c6cb;
+    border-radius: 4px;
+  }
+  
+  .alert button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .alert button:hover {
+    background-color: #0056b3;
+  }
+  .alert {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 20px;
+    margin-bottom: 15px;
+    border: 1px solid #f5c6cb;
+    border-radius: 4px;
+  }
+  
+  .alert button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .alert button:hover {
+    background-color: #0056b3;
+  }
+  .alert {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 20px;
+    margin-bottom: 15px;
+    border: 1px solid #f5c6cb;
+    border-radius: 4px;
+  }
+  
+  .alert button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .alert button:hover {
+    background-color: #0056b3;
+  }
